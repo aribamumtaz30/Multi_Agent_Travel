@@ -1,0 +1,35 @@
+{
+  "trip_overview": {
+    "destination": "Dubai",
+    "duration_days": 5,
+    "travelers": 2,
+    "budget": 2000,
+    "estimated_cost": 1850,
+    "remaining_budget": 150
+  },
+  "recommended_hotel": {
+    "name": "Central 4-star Stay",
+    "location": "Downtown Dubai",
+    "estimated_total": 680,
+    "rating": 4.2,
+    "why_recommended": "Central location and balanced cost."
+  },
+  "surrounding_places": ["Abu Dhabi", "Sharjah", "Hatta", "Al Ain"],
+  "day_by_day_itinerary": {
+    "days": [
+      {"day": 1, "morning": "Old Dubai", "afternoon": "Dubai Mall", "evening": "Dinner near Downtown"},
+      {"day": 2, "morning": "Jumeirah Beach", "afternoon": "Dubai Marina", "evening": "Dinner near Marina"}
+    ]
+  },
+  "budget_breakdown": {
+    "flights": 0,
+    "hotel": 680,
+    "food": 350,
+    "activities": 400,
+    "transportation": 200,
+    "miscellaneous": 220,
+    "total": 1850,
+    "remaining": 150,
+    "within_budget": true
+  }
+}

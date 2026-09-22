@@ -1,0 +1,83 @@
+{
+  "Dubai": {
+    "popular_areas": [
+      "Downtown Dubai",
+      "Dubai Marina",
+      "Jumeirah",
+      "Old Dubai"
+    ],
+
+    "major_attractions": [
+      "Burj Khalifa",
+      "Dubai Mall",
+      "Desert Safari",
+      "Museum of Future",
+      "Jumeirah Beach"
+    ],
+
+    "transport": [
+      "Dubai Metro",
+      "Taxi",
+      "Rental Cars"
+    ],
+
+    "best_time": "November to March",
+
+    "considerations": [
+      "Summer temperatures are very high",
+      "Book popular attractions early"
+    ],
+
+    "approximate_cost": {
+      "hotel_per_night": "$100-$200",
+      "food_daily": "$30-$80",
+      "transport_daily": "$15-$40"
+    },
+
+    "neighborhoods": [
+      "Downtown",
+      "Marina",
+      "Jumeirah"
+    ]
+  },
+
+
+  "Pakistan": {
+    "popular_areas": [
+      "Islamabad",
+      "Lahore",
+      "Hunza",
+      "Skardu"
+    ],
+
+    "major_attractions": [
+      "Faisal Mosque",
+      "Badshahi Mosque",
+      "Hunza Valley",
+      "Skardu Mountains"
+    ],
+
+    "transport": [
+      "Domestic Flights",
+      "Taxi",
+      "Bus"
+    ],
+
+    "best_time": "October to April",
+
+    "considerations": [
+      "Mountain areas require weather planning"
+    ],
+
+    "approximate_cost": {
+      "hotel_per_night": "$50-$150",
+      "food_daily": "$15-$40",
+      "transport_daily": "$10-$30"
+    },
+
+    "neighborhoods": [
+      "Blue Area Islamabad",
+      "Gulberg Lahore"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Dubai": [
+    {
+      "name": "Downtown Dubai Hotel",
+      "location": "Downtown Dubai",
+      "price": 650,
+      "rating": 4.5,
+      "distance": "2 km from Burj Khalifa",
+      "reason": "Best for sightseeing and shopping because it is near Dubai Mall"
+    },
+    {
+      "name": "Dubai Marina Resort",
+      "location": "Dubai Marina",
+      "price": 750,
+      "rating": 4.6,
+      "distance": "500 meters from Marina Walk",
+      "reason": "Good choice for beach and nightlife travelers"
+    }
+  ],
+
+  "Pakistan": [
+    {
+      "name": "Islamabad Serena Hotel",
+      "location": "Islamabad",
+      "price": 500,
+      "rating": 4.7,
+      "distance": "Near Faisal Mosque",
+      "reason": "Luxury hotel with central location"
+    },
+    {
+      "name": "Pearl Continental Lahore",
+      "location": "Lahore",
+      "price": 450,
+      "rating": 4.5,
+      "distance": "Near Lahore Fort",
+      "reason": "Suitable for culture and food travelers"
+    }
+  ]
+}

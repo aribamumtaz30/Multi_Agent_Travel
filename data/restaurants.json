@@ -1,0 +1,39 @@
+{
+  "Dubai": [
+    {
+      "name": "Arabian Tea House",
+      "cuisine": "Emirati",
+      "budget": "Medium",
+      "location": "Old Dubai",
+      "near": "Dubai Museum and cultural areas",
+      "reason": "Good local food experience"
+    },
+    {
+      "name": "Pierchic",
+      "cuisine": "Seafood",
+      "budget": "High",
+      "location": "Jumeirah",
+      "near": "Beach activities",
+      "reason": "Premium dining with ocean views"
+    }
+  ],
+
+  "Pakistan": [
+    {
+      "name": "Monal Islamabad",
+      "cuisine": "Pakistani",
+      "budget": "Medium",
+      "location": "Margalla Hills",
+      "near": "Islamabad sightseeing",
+      "reason": "Popular food destination with city views"
+    },
+    {
+      "name": "Cuckoo's Den",
+      "cuisine": "Traditional Pakistani",
+      "budget": "Medium",
+      "location": "Lahore Fort",
+      "near": "Historical attractions",
+      "reason": "Best for cultural food experience"
+    }
+  ]
+}

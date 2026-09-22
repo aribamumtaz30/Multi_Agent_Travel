@@ -1,0 +1,10 @@
+{
+  "destination": "Dubai",
+  "start_date": "2026-12-10",
+  "end_date": "2026-12-14",
+  "travelers": 2,
+  "budget": 2000,
+  "interests": ["food", "shopping", "beaches", "sightseeing"],
+  "cuisine_preferences": ["local", "Middle Eastern"],
+  "hotel_preference": "4-star"
+}
